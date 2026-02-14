@@ -53,5 +53,4 @@ We may update our Privacy Policy from time to time. Any changes will be notified
 
 If you have any questions about this Privacy Policy or our practices, please contact us at:
 
-*   **Developer Name**: [Your Name/Team Name]
-*   **Email**: [Your Contact Email]
+*   **Email**: wuchaoyu1991@gmail.com
